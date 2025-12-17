@@ -93,4 +93,4 @@ retailvision/
 
 - **Name:** Med Amine Salhi  
 
-This project is intended for educational and research purposes.
+
